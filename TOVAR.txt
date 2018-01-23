@@ -1,0 +1,17 @@
+16
+112564;banan
+111245;figa
+113456;pomaranc
+115647;pomelo
+124521;paradajka
+126598;uhorka
+136574;rozok
+135487;chlieb
+145213;hranolky
+145496;parky
+149651;celozrnne pecivo
+158465;sampon
+152630;zubna pasta
+169801;kuracie prsia
+165936;prasa
+165847;klobaska
